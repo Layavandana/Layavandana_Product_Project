@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Company</string>
+    <string-array name="programming_languages">
+        <item>Laptop</item>
+        <item>fridge</item>
+        <item>adapter</item>
+        <item>hard disk</item>
+        <item>lan cables</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>this is the random discription</item>
+        <item>this is the random discription</item>
+        <item>this is the random discription</item>
+        <item>this is the random discription</item>
+        <item>this is the random discription</item>
+    </string-array>
+</resources>
